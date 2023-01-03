@@ -16,7 +16,7 @@ We have improved the code to allow future updates to be even faster to be made a
  * Translation support
      - Translations can be done easily with our method
  * More Missions? 
-      - More missions for you to play with yours friends, all in one place
+      - More missions for you to play with yours friends, all in one place. Hope you're not too freaked out to play with DaX again
  
  * We have totally improved how presets are chosen, as well as opting to allow you to play it with its "original" payout values
  * Some old features like **Cooldown Reminder** and the **Heist Inspector** are back even better.
