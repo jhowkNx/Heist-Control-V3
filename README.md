@@ -7,7 +7,7 @@ The internal code of the script has been reworked, this new version was develope
 
 We have improved the code to allow future updates to be even faster to be made and distributed.
 
-### Some new features
+### New features
 
  * Smart Payout
     - Smart Payout is a feature that identifies your current Heist, the method you are choosing, and automatically it offers the best payout to all members of it.
