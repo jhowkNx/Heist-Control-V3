@@ -1,4 +1,4 @@
-## Welcome to Heist Control Official Page for 2Take1 Menu
+## Welcome to Heist Control Official for 2Take1 Menu
 
 ### Introducing Heist Control V3
 
