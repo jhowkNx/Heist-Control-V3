@@ -3,7 +3,7 @@
 ### Introducing Heist Control V3
 
 Even smarter, more robust and more effective.
-The internal code of the script has been reworked, this new version was developed from scratch. Several deprecated items have been removed and we have chosen to add more cutting edge features.
+The internal code of the script has been reworked, the new version was developed from scratch. Several deprecated items have been removed and we have chosen to add more cutting edge features.
 
 We have improved the code to allow future updates to be even faster to be made and distributed.
 
