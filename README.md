@@ -16,12 +16,10 @@ Some new features in this new version of Heist Control
  * Translation support
      - Translations can be done easily with our method
  * More Missions? 
-ut multiple missions in one place? Yes, we brought that too, including the new DaX missions!**
+      - More missions for you to play with yours friends, all in one place
  
-**We have totally improved how presets are chosen, as well as opting to allow you to play it with its "original" payout values**
-Some old features like **Cooldown Reminder** and the **Heist Inspector** are back even better.
-
-
-And many other features have been improved for navigation within the script!
+ * We have totally improved how presets are chosen, as well as opting to allow you to play it with its "original" payout values
+ * Some old features like **Cooldown Reminder** and the **Heist Inspector** are back even better.
+ * Many other features have been improved for navigation within the script!
 
 I appreciate the support of all the users who have used this script since when it was just a "stats editor" in December 2019, the year I created this script.
