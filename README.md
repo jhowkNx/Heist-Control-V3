@@ -11,7 +11,7 @@ We have improved the code to allow future updates to be even faster to be made a
 
  * Smart Payout
     - Smart Payout is a feature that identifies your current Heist, the method you are choosing, and automatically it offers the best payout to all members of it.
-    - Smart Payout is only compatible with Casino Heists & Doomsday Heists
+    - Smart Payout is only compatible with Casino Heist, Doomsday Heist & Apartment Heist
 
  * Translation support
      - Translations can be done easily with our method
